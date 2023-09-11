@@ -43,6 +43,8 @@ I'm a Full Stack Developer and Blockchain Web3 Integration Engineer with experie
   - Project: [PayPlic - A Crypto2Crypto Gateway](https://devpost.com/software/decentralized-x-digilocker-xdl?ref_content=my-projects-tab&ref_feature=my_projects)
 - Winner - XDC Defi Hackathon
   - Project: [XSyn Protocol - Synthetic Assets Issuance/Trading Protocol](https://devpost.com/software/xsyn-protocol?ref_content=my-projects-tab&ref_feature=my_projects)
+- Winner - Web3berlin Hackathon
+  - Project: [XiPay Wallet - Redefining the wallet management experience](https://crowdhack.io/project/64886ce8310c7900368a8434)
 
 
 ## 📦 NPM Packages Publishing
